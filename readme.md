@@ -181,7 +181,7 @@ _...na samostalnost ukazuje sadržina takvih oglasa - prilikom oglašavanja potr
 
 Ovo je još jedno očigledno nepoznavanje IT-a i programiranja. Da bi neko mogao da obavi svoje poslove, potrebno je da se uklopi u traženi projekat. Za razliku od regularnih poslova, neophodno je navesti u kojim tehnologijama se radi, u kojim programskim jezicima je potrebno isporučiti krajnji rezultat itd. To nije moguće korišćenjem zidarsko/molerske logike da je potrebno _samo isporučiti_ krajnji rezultat. Ako neko zahteva plugin u Wordpress-u, ne može mu se _samo isporučiti_ modul u C++ koji se ni po kom kriterijumu ne uklapa u projekat. Ovo je jedan od razloga zašto je bilo neophodno da IT zajednica učestvuje u sastavljanju ovih pitanja i pravilnika. Dokle će se nestručni ljudi pitati za poslove o kojima ne znaju ništa?!?
 
-### Kako država ovo tumači za drugi deo pitanja?
+### Kako država tumači drugi deo pitanja?
 Ako vas angažuje regruter ili HR, po pravilu to nije način na koji se angažuju samostalni preduzetnici. Međutim, HR stručnjaci mogu proceniti kvalifikacije samostalnih preduzetnika, jer im je to u opisu profesije.
 
 ::: danger Preduzetnik pada ovo pitanje ukoliko...
