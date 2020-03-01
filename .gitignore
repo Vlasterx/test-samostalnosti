@@ -18,6 +18,7 @@ sh.exe.stackdump
 
 # Output files that can be recreated from source
 **/dist/
+logs/*
 
 # Temporary files
 **/*.old.*
