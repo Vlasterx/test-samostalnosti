@@ -1,0 +1,28 @@
+######################
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+sh.exe.stackdump
+.sass-cache/*
+
+#################
+# Project files #
+#################
+
+# Output files that can be recreated from source
+**/dist/
+
+# Temporary files
+**/*.old.*
+**/*.temp.*
+
+# NodeJS files
+node_modules/*
+package-lock.json

@@ -1,0 +1,16 @@
+{
+  "name": "test-samostalnosti",
+  "version": "1.0.0",
+  "description": "Tumačenje testa samostalnosti preduzetnika u Srbiji",
+  "main": "index.js",
+  "author": "Vladimir Jovanović <test-samostalnosti@protonmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
