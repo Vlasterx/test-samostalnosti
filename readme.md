@@ -103,7 +103,7 @@ Preduzetnik pada ovaj deo pitanja ukoliko se utvrdi:
 > Preduzetnik ili preduzetnik paušalac uobičajeno koristi prostorije koje obezbedi ili obavlja poslove u mestu koje odredi nalogodavac ili povezano lice s nalogodavcem za potrebe obavljanja poslova koji su mu povereni.
 
 ::: danger Preduzetnik pada ovo pitanje ukoliko...
-1. Obavlja posao u prostorijama preduzetnika
+1. Obavlja posao u prostorijama nalogodavca
 2. Ukoliko Nalogodavac određuje radno mesto preduzetniku
 3. Ukoliko se adrese poslovnih prostorija poklapaju
 4. Ukoliko preduzetnik nema dokaz o vlasništvu ili ugovor o zakupu poslovnih prostorija
