@@ -76,7 +76,7 @@ _...rad od svega nekoliko (npr. tri ili pet) časova mesečno u nepravilnim inte
 :::
 
 ### Šta inspektori proveravaju za prvi deo pitanja?
-1. Uvid u alate Preduzetnika, što obuhvata pregled svega u računaru, kao i pregled email prepiske radi utvrđivanja postojanja dogovora prema kojem je preduzetnik dužan da bude na raspolaganju preduzetniku.
+1. Uvid u alate Preduzetnika, što obuhvata pregled svega u računaru, kao i pregled email prepiske radi utvrđivanja postojanja dogovora prema kojem je Preduzetnik dužan da bude na raspolaganju Nalogodavcu.
 2. Uvid u izveštaje preduzetnika, radi traženja veza između obavljenih usluga i vremena provedenom na njihovoj izradi. Traže veze kao što je `Preduzetnik izveštava Nalogodavca da je u radnoj nedelji od pet radnih dana i ukupno 40 sati pružio tačno određene usluge, gde bi poreski inspektor analizirao između ostalog i strukturu i intervale radnih sati` (strana 29)
 3. `Ukoliko preduzetnik svoje angažovanje naplaćuje po radnom satu, poreski inspektor će izvršiti uvid u izdate fakture preduzetnika i prateće specifikacije radnih sati, na osnovu kojih se može utvrditi da li postoji osnov da se tvrdi da je kriterijum 1 ispunjen (broj radnih sati u nedelji ili mesecu u manjoj ili većoj meri odgovara broju radnih sati zaposlenog lica ili se struktura i intervali radnih sati svakog meseca/nedelje ponavljaju` (strana 29). Ovo otprilike znači da ako radite uopšte na bilo kojem dužem projektu, da padate ovaj deo pitanja.
 4. Analiza boravka o pristupu poslovnom prostoru Nalogodavca. Ovo je jedini deo koji se **konkretno** odnosi na fiktivno zaposlene, zbog kojih je i donet ovaj zakon.
