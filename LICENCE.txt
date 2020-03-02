@@ -1,7 +1,7 @@
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License.
 
-Copyright 2020, Vladimir Jovanović
+Copyright 2020, Vladimir Jovanović <vladimir@bitersen.com>
 
 You are free to:
 
