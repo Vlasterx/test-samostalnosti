@@ -1,11 +1,4 @@
 # Tumačenje testa samostalnosti
-Ovaj tekst je namenjen pre svega kolegama preduzetnicima iz IT-a uz nadu da će podići svoj glas protiv ovakvog zakona i potom zahtevati izmene. Radi svih nas, radi naše zemlje.
-
-Ovo je otvoren dokument i podložan je promenama. Svi koji žele da ukažu na greške ili žele da dopune dokument, to mogu da urade preko pravljenja _pull request_ zahteva u [GitHub repozitorijumu](https://github.com/Vlasterx/test-samostalnosti) ovog sajta. Ukoliko želite, dokument radi veće vidljivosti možete da hostujete i na vašim domenima.
-
-**Vladimir Jovanović**
-
-Web dizajner i web developer od početka 2000.
 
 ## Uputstvo za tumačenje
 Radi lakše preglednosti, određene blokove teksta sam obojio različitim bojama. Tumačenje boja se nalazi ispod:
