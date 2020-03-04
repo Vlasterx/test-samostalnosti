@@ -1,0 +1,2 @@
+## Greške, sugestije, pitanja?
+Ukoliko ste primetili neku grešku u tumačenju ili imate neku sugestiju ili pitanje, to možete uputiti putem pravljenja _pull request_-a, možete da otvorite [novi problem](https://github.com/Vlasterx/test-samostalnosti/issues/) u repozitorijumu ili upit možete da pošaljete na email <a href="mailto:test-samostalnosti@protonmail.com">test-samostalnosti@protonmail.com</a>

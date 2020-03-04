@@ -1,3 +1,5 @@
+const moment = require('moment')
+
 module.exports = {
   title: 'Tumačenje testa samostalnosti',
   description: 'Tumačenje testa samostalnosti preduzetnika u Srbiji',
@@ -12,8 +14,11 @@ module.exports = {
   plugins: [
     '@vuepress/last-updated',
     {
-      dateOptions:{
-        hours12: false
+      transformer: (timestamp) => {
+        const moment = require('moment')
+
+        moment.format('dddd DD.MM.YYYY. HH:MM')
+        return moment(timestamp).fromNow()
       }
     }
   ],
@@ -33,6 +38,9 @@ module.exports = {
     // Sidebar links
     sidebar: [
       '/',
+      '/ustav',
+      '/test-samostalnosti',
+      '/kontakt',
     ]
   }
 }
