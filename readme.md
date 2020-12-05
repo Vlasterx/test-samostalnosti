@@ -6,7 +6,7 @@ Dokument je otvorenog formata, što znači da svako može da doprinese izmenama 
 Za one koji nisu tehnički potkovani, sve dopune možete da pošaljte na mail <a href="mailto:test-samostalnosti@protonmail.com">test-samostalnosti@protonmail.com</a> ili možete da otvorite [novi problem](https://github.com/Vlasterx/test-samostalnosti/issues/) u okviru ovog repozitorijuma.
 
 ## Hosting na vašem domenu
-Ovaj repozitorijum koristi [VuePress](https://nodejs.org/en/) za izgradnju statičkog sajta. Ukoliko želite da hostujete dokument kod sebe na domenu, potrebno je da imate instalirani [NodeJS](https://nodejs.org/en/). Po instalaciji Node-a, pokrenite sledeće komande iz root-a repozitorijuma:
+Ovaj repozitorijum koristi [VuePress](https://vuepress.vuejs.org/) za izgradnju statičkog sajta. Ukoliko želite da hostujete dokument kod sebe na domenu, potrebno je da imate instalirani [NodeJS](https://nodejs.org/en/). Po instalaciji Node-a, pokrenite sledeće komande iz root-a repozitorijuma:
 
 - `npm install` da instalirate sve potrebne module za pokretanje VuePress programa
 - `npm run build` da pokrenete izgradnju statičkih fajlova u `/dist/` direktorijum, koji ujedno predstavlja i root sajta.
